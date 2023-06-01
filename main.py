@@ -1,0 +1,5 @@
+print("Pycharm is awesome")
+print("Lets see how to do this")
+print("I love python codes")
+print("Watch this space")
+print("Kenya")
